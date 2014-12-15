@@ -1,0 +1,17 @@
+h1
+{
+	color: #3366FF;
+	font-size: 70px;
+	background-color: #FF0000;
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+#image1
+{
+	margin-left: auto;
+	margin-right: auto;
+}
